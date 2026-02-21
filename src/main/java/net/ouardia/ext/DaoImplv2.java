@@ -1,4 +1,4 @@
-package net.ouardia.net.ouardia.ext;
+package net.ouardia.ext;
 
 import net.ouardia.dao.IDao;
 
