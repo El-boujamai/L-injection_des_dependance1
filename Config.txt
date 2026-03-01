@@ -1,2 +1,2 @@
 net.ouardia.dao.DaoImpl
-net.ouardia.metier.MetierIml
+net.ouardia.metier.MetierImpl
